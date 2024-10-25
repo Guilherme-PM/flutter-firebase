@@ -1,0 +1,6 @@
+2024/10/24-20:47:25.459 c6c Creating DB C:\Users\Alunos\AppData\Local\Temp\flutter_tools.772f697f\flutter_tools_chrome_device.6b2eafbb\Default\IndexedDB\https_brutalmania.io_0.indexeddb.leveldb since it was missing.
+2024/10/24-20:47:25.462 c6c Reusing MANIFEST C:\Users\Alunos\AppData\Local\Temp\flutter_tools.772f697f\flutter_tools_chrome_device.6b2eafbb\Default\IndexedDB\https_brutalmania.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/24-21:17:27.407 c3c Level-0 table #5: started
+2024/10/24-21:17:27.410 c3c Level-0 table #5: 36669 bytes OK
+2024/10/24-21:17:27.411 c3c Delete type=0 #3
+2024/10/24-21:17:27.411 c3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

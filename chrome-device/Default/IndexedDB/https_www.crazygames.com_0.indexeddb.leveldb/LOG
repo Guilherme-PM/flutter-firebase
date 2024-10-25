@@ -1,0 +1,7 @@
+2024/10/24-20:44:30.889 c3c Reusing MANIFEST C:\Users\Alunos\AppData\Local\Temp\flutter_tools.772f697f\flutter_tools_chrome_device.6b2eafbb\Default\IndexedDB\https_www.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/24-20:44:30.890 c3c Recovering log #4
+2024/10/24-20:44:30.890 c3c Reusing old log C:\Users\Alunos\AppData\Local\Temp\flutter_tools.772f697f\flutter_tools_chrome_device.6b2eafbb\Default\IndexedDB\https_www.crazygames.com_0.indexeddb.leveldb/000004.log 
+2024/10/24-20:44:30.935 1378 Level-0 table #8: started
+2024/10/24-20:44:30.937 1378 Level-0 table #8: 1622 bytes OK
+2024/10/24-20:44:30.939 1378 Delete type=0 #4
+2024/10/24-20:44:30.940 c6c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
